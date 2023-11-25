@@ -1,0 +1,11 @@
+﻿.sunset {
+ position: relative;
+}
+
+.positiond-image {
+ position: absolute;
+ top: 10px;
+ left: 650px;
+hight: 100px;
+ width: 300px;
+}

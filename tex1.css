@@ -1,0 +1,12 @@
+﻿.tex {
+ position: relative;
+}
+
+.positiode1-image {
+ position: absolute;
+ top: 1280px;
+ left: 600px;
+hight: 100px;
+ width: 400px;
+color: blue;
+}

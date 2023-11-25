@@ -1,0 +1,11 @@
+﻿.imag4 {
+ position: relative;
+}
+
+.positioned4-image {
+ position: absolute;
+ top: 50px;
+ left: 400px;
+height: 210px;
+ width: 350px;
+}

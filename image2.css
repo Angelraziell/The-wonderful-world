@@ -1,0 +1,13 @@
+﻿.image2 {
+ position: relative;
+ hight: 100px;
+ width: 300px;
+}
+
+.positioned3-image {
+ position: absolute;
+ top: 50px;
+ left: 20px;
+height:200px;
+width:300px;
+}

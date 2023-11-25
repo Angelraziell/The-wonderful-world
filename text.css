@@ -1,0 +1,13 @@
+﻿.text {
+ position: relative;
+}
+
+.positiod-image {
+ position: absolute;
+ top: 120px;
+ left: 400px;
+hight: 100px;
+ width: 600px;
+background-color: white;
+color: blue;
+}

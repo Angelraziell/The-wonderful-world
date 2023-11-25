@@ -1,0 +1,11 @@
+﻿.sunse {
+ position: relative;
+}
+
+.positiond1-image {
+ position: absolute;
+ top: 30px;
+ left: 600px;
+hight: 200px;
+ width: 350px;
+}

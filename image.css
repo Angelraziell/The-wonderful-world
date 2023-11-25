@@ -1,0 +1,11 @@
+﻿.image {
+ position: relative;
+ hight: 100px;
+ width: 300px;
+}
+
+.positioned-image {
+ position: absolute;
+ top: 20px;
+ left: 200px;
+}

@@ -1,0 +1,12 @@
+﻿.imagine {
+ position: relative;
+}
+
+.position-image {
+ position: absolute;
+ top: 10px;
+ left: 300px;
+hight: 40px;
+ width: 300px;
+figcaption: Watching stars view;
+}

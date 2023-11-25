@@ -1,0 +1,13 @@
+﻿
+     
+   .imag6 {
+ position: relative;
+}
+
+.positioned6-image {
+ position: absolute;
+ top: 500px;
+ left: 400px;
+height: 300px;
+ width: 450px;
+}
